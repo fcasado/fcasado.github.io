@@ -1,3 +1,9 @@
+h1 {
+  font-family: sans-serif;
+  font-size: 60px;
+  color: #FFE
+}
+
 .container{
   margin: 0 auto;
   width: 840px;
